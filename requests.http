@@ -1,0 +1,8 @@
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+  "name": "Keyboard AULA F75",
+  "description": "Best ever keyboard",
+  "price": 2000.02
+}
